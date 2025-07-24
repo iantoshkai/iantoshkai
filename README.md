@@ -1,2 +1,1 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iantoshkai&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantoshkai&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
